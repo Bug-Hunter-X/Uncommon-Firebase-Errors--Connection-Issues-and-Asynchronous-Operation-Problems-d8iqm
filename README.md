@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in Firebase involving connection errors and the complexities of asynchronous operations.  The `firebaseBug.js` file shows code that's vulnerable to these issues, while `firebaseBugSolution.js` provides a robust solution demonstrating proper error handling and the safe management of asynchronous data retrieval.
